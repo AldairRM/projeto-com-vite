@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/teste-vite', // ou base: '/'  
+  base: '/projeto-com-vite', // ou base: '/'  
   plugins: [
   ]
 });
